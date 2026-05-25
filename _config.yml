@@ -1,0 +1,8 @@
+theme: jekyll-theme-hacker
+title: AIE Blueprint
+description: AI Engineering patterns, principles, and reference architecture.
+url: "https://spyd3r83.github.io"
+baseurl: "/aie-blueprint"
+
+plugins:
+  - jekyll-seo-tag
