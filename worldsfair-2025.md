@@ -178,7 +178,7 @@ The observability gap: traditional monitoring shows *that* something failed, but
 
 ---
 
-*Compiled from field observations across practitioners building, deploying, and operating agentic systems in production. June 2026.*
+*Published June 2, 2026. Compiled from field observations across practitioners building, deploying, and operating agentic systems in production.*
 
 ---
 

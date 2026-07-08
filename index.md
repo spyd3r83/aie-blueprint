@@ -13,9 +13,11 @@ title: AIE Blueprint
 ## The Field Guides
 
 **[Pragmatic AI Engineering in the Field](/aie-blueprint/worldsfair-2025.html)** — *Code, context, and a lot of coffee.*
+Published June 2, 2026
 A synthesis of the foundational patterns: context as bottleneck, bounded autonomy, eval maturity, agent architecture, and organizational redesign. The baseline every team should know before building agents at scale.
 
 **[World's Fair 2026: The State of AI Engineering](/aie-blueprint/worldsfair-2026.html)** — *What 80 talks reveal about where agentic systems are going.*
+Published July 8, 2026
 The evolution: MCP went mainstream, software factories are shipping (and breaking), context engineering replaced prompt engineering, and token economics became the new cloud bill.
 
 ---
@@ -39,4 +41,4 @@ Across both years and 110+ talks, the signal cuts through the noise:
 
 ---
 
-*Updated July 2026.*
+*Last updated July 8, 2026.*
