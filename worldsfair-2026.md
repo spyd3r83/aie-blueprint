@@ -175,3 +175,7 @@ The talks collectively paint a picture of an industry that has moved past the "i
 ---
 
 *Compiled from field observations of practitioners building, deploying, and operating agentic systems at scale. July 2026.*
+
+---
+
+[← 2025: Pragmatic AI Engineering](/aie-blueprint/worldsfair-2025.html) · [Home →](/aie-blueprint/)
